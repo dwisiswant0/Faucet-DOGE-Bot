@@ -14,7 +14,7 @@ Get faucet DOGE coin for every minutes.
 - [Getting started](#getting-started)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Proof](#proof-of-payouts)
+- [Proof of Payouts](#proof-of-payouts)
 - [Issues](#issues)
 - [Version](#version)
 
