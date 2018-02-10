@@ -78,4 +78,3 @@ d0aa6aed5f34da105b04fd974a671623  Faucet-DOGE-Bot_v1.0.2_linux_i386
 81d0da22806971e7a9633246c2ff28b8  Faucet-DOGE-Bot_v1.0.2_windows_i386.exe
 eea5f258d8000097d389af6dd7d111b0  Faucet-DOGE-Bot_v1.0.2_windows_amd64.exe
 ```
-```
