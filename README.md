@@ -56,13 +56,13 @@ And currently tested on Linux (Ubuntu 16.04) 64bit, Windows 32bit *(via Wine)* &
 ### Usage
 *Windows* (by CMD)
 ```
-> Faucet-DOGE-Bot_windows_*.exe
+> Faucet-DOGE-Bot_v1.0.*_windows_*.exe
 ```
 
 *Linux* (by terminal)
 ```
-$ chmod +x Faucet-DOGE-Bot_linux_*
-$ ./Faucet-DOGE-Bot_linux_*
+$ chmod +x Faucet-DOGE-Bot_v1.0.*_linux_*
+$ ./Faucet-DOGE-Bot_v1.0.*_linux_*
 ```
 
 ### Issues
