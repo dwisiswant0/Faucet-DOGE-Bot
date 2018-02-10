@@ -14,6 +14,7 @@ Get faucet DOGE coin for every minutes.
 - [Getting started](#getting-started)
 - [Requirements](#requirements)
 - [Usage](#usage)
+- [Proof](#proof-of-payouts)
 - [Issues](#issues)
 - [Version](#version)
 
@@ -64,6 +65,9 @@ And currently tested on Linux (Ubuntu 16.04) 64bit, Windows 32bit *(via Wine)* &
 $ chmod +x Faucet-DOGE-Bot_v1.0.*_linux_*
 $ ./Faucet-DOGE-Bot_v1.0.*_linux_*
 ```
+
+### Proof of Payouts
+![Proof of Payouts](https://user-images.githubusercontent.com/25837540/36065309-65202ee2-0ecb-11e8-95b2-306b42d071d5.png)
 
 ### Issues
 You're welcome if you want to trace and/ or make issues [here](https://github.com/dwisiswant0/Faucet-DOGE-Bot/issues).
