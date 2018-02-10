@@ -68,7 +68,7 @@ $ ./Faucet-DOGE-Bot_linux_*
 You're welcome if you want to trace and/ or make issues [here](https://github.com/dwisiswant0/Faucet-DOGE-Bot/issues).
 
 ### Version
-**Faucet DOGE Bot** v1 *(experimental).
+**Faucet DOGE Bot** v1 *(experimental)*.
 
 ##### MD5 Checksum
 ```
