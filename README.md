@@ -41,6 +41,7 @@ If you found a similar web as above, please let me know by [opening an issue](ht
 * Copy your URL, e.g:
 ```
 http://getdogecoin.website/mining/faucet.php?address=DMuLbgCp47....&currency=DOGE&key=9f9c2a218d....
+http://autoclaim.win/faucet.php?address=DMuLbgCp47....&currency=DOGE&key=9f9c2a218d....
 ```
 
 Actually, you only need value of the `key=` parameter.
