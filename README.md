@@ -31,6 +31,7 @@ This BOT is work in multiple faucet web and currently I got
 ```
 autoclaim.win
 getdogecoin.website/mining/
+...
 ```
 and etc.
 
