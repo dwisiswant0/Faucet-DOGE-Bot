@@ -27,12 +27,7 @@ To install, simply download in [this link](https://github.com/dwisiswant0/Faucet
 
 ### Getting started
 
-This BOT is work in multiple faucet web and currently I got
-```
-autoclaim.win
-getdogecoin.website/mining/
-...
-```
+This BOT is work in multiple faucet web and currently I got [this](#lists-of-supported-domain).
 and etc.
 
 If you found a similar web as above, please let me know by [opening an issue](https://github.com/dwisiswant0/Faucet-DOGE-Bot/issues).
