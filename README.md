@@ -15,6 +15,7 @@ Get faucet DOGE coin for every minutes.
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Proof of Payouts](#proof-of-payouts)
+- [Lists of Supported Domain](#lists-of-supported-domain)
 - [Issues](#issues)
 - [Version](#version)
 
@@ -69,16 +70,26 @@ $ ./Faucet-DOGE-Bot_v1.0.*_linux_*
 ### Proof of Payouts
 ![Proof of Payouts](https://user-images.githubusercontent.com/25837540/36065309-65202ee2-0ecb-11e8-95b2-306b42d071d5.png)
 
+### Lists of Supported Domain
+```
+getdogecoin.website
+autoclaim.win
+coinhub.win
+letsgetstarted.cloudminingfromzero.com
+japakar.com/doge
+japakar.com/auto2
+```
+
 ### Issues
 You're welcome if you want to trace and/ or make issues [here](https://github.com/dwisiswant0/Faucet-DOGE-Bot/issues).
 
 ### Version
-**Faucet DOGE Bot** currently version is `v1.0.2` *(stable)*.
+**Faucet DOGE Bot** currently version is `v1.0.3`.
 
 ##### MD5 Checksum
 ```
-d0aa6aed5f34da105b04fd974a671623  Faucet-DOGE-Bot_v1.0.2_linux_i386
-9c43bf6d5b9250df1fea8210eb776a70  Faucet-DOGE-Bot_v1.0.2_linux_amd64
-81d0da22806971e7a9633246c2ff28b8  Faucet-DOGE-Bot_v1.0.2_windows_i386.exe
-eea5f258d8000097d389af6dd7d111b0  Faucet-DOGE-Bot_v1.0.2_windows_amd64.exe
+57704255040ac468410965534f3d34df  Faucet-DOGE-Bot_v1.0.3_linux_i386
+2337e51fc9ee8a63630df8d16b2b5ed4  Faucet-DOGE-Bot_v1.0.3_linux_amd64
+9c5a60f2608c8c72dffbd580f5c6e115  Faucet-DOGE-Bot_v1.0.3_windows_i386.exe
+6a536cda5601b5dfe20f4db5a6a10ed0  Faucet-DOGE-Bot_v1.0.3_windows_amd64.exe
 ```
